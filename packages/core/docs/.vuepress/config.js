@@ -133,6 +133,7 @@ module.exports = {
 						['/general/key-concepts', 'Key concepts'],
 						['/general/architecture', 'Architecture'],
 						['/general/i18n', 'i18n'],
+						['/general/error-handling', 'Error Handling'],
 						['/general/logging', 'Logging'],
 						['/general/performance', 'Performance'],
 						['/general/context', 'Application Context']
